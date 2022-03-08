@@ -1,0 +1,414 @@
+num_individu,quartier,num_maison,num_gfam,nom,nom_jf,prenom,sexe,date_naissance,age,gen,nationalite,statut_chef,statut_couple,profession,patron
+1,Le Bourg,1,1,courgault,,paul,h,1894,32,gen2,français,chef,marié,boulanger,patron
+2,Le Bourg,1,1,courgault,joubert,louise,f,1894,32,gen2,français,épouse,marié,,
+3,Le Bourg,1,1,courgault,,germaine,f,1920,6,gen3,français,fille,,,
+4,Le Bourg,1,1,courgault,,jeanne,f,1921,5,gen3,français,fille,,,
+5,Le Bourg,2,2,blineau,,julien,h,1862,64,gen1,français,chef,veuf,cultivateur,patron
+6,Le Bourg,3,3,loiseau,girard,Marie-louise,f,1883,43,gen2,français,chef,veuf,cultivateur,patron
+7,Le Bourg,3,3,loiseau,,fernand,h,1910,16,gen3,français,fils,,cultivateur,
+8,Le Bourg,3,3,loiseau,girard,marie,f,1857,69,gen1,français,mere,,,
+9,Le Bourg,4,4,deforges,,joseph,h,1878,48,gen2,français,chef,marié,cultivateur,patron
+10,Le Bourg,4,4,deforges,obligy,eugénie,f,1886,40,gen2,français,épouse,marié,cultivateur,
+11,Le Bourg,4,4,deforges,,léon,h,1913,13,gen3,français,fils,,écolier,
+12,Le Bourg,5,5,champion,,jules,h,1894,32,gen2,français,chef,marié,journalier,
+13,Le Bourg,5,5,champion,,elise,f,1899,27,gen2,français,épouse,marié,eleveur,
+14,Le Bourg,5,5,champion,,arlette,f,1921,5,gen3,français,fille,,,
+15,Le Bourg,5,5,champion,chesseron,andré,h,1924,2,gen3,français,fils,,,
+16,Le Bourg,6,6,bernard,,yvonne,f,1899,27,gen2,français,chef,veuf,instituteur,
+17,Le Bourg,6,6,bernard,ceré,alzina,f,1873,53,gen2,français,mere,,,
+18,Le Bourg,7,7,duchesne,,etienne,h,1861,65,gen1,français,chef,marié,cultivateur,patron
+19,Le Bourg,7,7,duchesne,guillault,marie,f,1871,55,gen2,français,épouse,marié,cultivateur,
+20,Le Bourg,7,7,marchaux,,clotilde,f,1898,28,gen2,français,domestique,,cultivateur,
+21,Le Bourg,7,8,duchesne,,etienne lucien,h,1898,28,gen2,français,chef,marié,cultivateur,
+22,Le Bourg,7,8,duchesne,bourgault,germaine,f,1900,26,gen2,français,épouse,marié,cultivateur,
+23,Le Bourg,7,8,duchesne,,guy,h,1925,1,gen3,français,fils,,,
+24,Le Bourg,8,9,constantin,,pierre,h,1871,55,gen2,français,chef,marié,cultivateur,patron
+25,Le Bourg,8,9,constantin,guilleau,eugénie,f,1876,50,gen2,français,épouse,marié,cultivateur,
+26,Le Bourg,8,9,constantin,,solange,f,1905,21,gen3,français,fille,,cultivateur,
+27,Le Bourg,8,9,constantin,,jeanne,f,1843,83,gen1,français,mere,,cultivateur,
+28,Le Bourg,8,9,constantin,joulin,louise,f,1850,76,gen1,français,Belle-mère,,cultivateur,
+29,Le Bourg,10,10,diboine,,françois,h,1874,52,gen2,français,chef,marié,cultivateur,patron
+30,Le Bourg,10,10,diboine,duchesne,albertine,f,1879,47,gen2,français,épouse,marié,cultivateur,
+31,Le Bourg,10,10,diboine,,agnès,f,1903,23,gen3,français,fille,,cultivateur,
+32,Le Bourg,10,10,diboine,,denise,f,1907,19,gen3,français,fille,,cultivateur,
+33,Le Bourg,10,10,diboine,,guilbert,h,1910,16,gen3,français,fils,,cultivateur,
+34,Le Bourg,10,10,diboine,,albertine,h,1918,8,gen3,français,fils,,écolier,
+35,Le Bourg,10,10,diboine,,olga,f,1923,3,gen3,français,fille,,,
+36,Le Bourg,11,11,leblanc,robert,marie,f,1867,59,gen2,français,chef,veuf,,
+37,Le Bourg,12,12,leblanc,,arthur,h,1868,58,gen2,français,chef,marié,cultivateur,patron
+38,Le Bourg,12,12,leblanc,suard,elise,f,1872,54,gen2,français,épouse,marié,cultivateur,
+39,Le Bourg,13,13,savaton,,charles,h,1865,61,gen1,français,chef,marié,cordonnier,patron
+40,Le Bourg,13,13,savaton,boyed,henriette,f,1873,53,gen2,français,épouse,marié,épicière,patron
+41,Le Bourg,13,13,savaton,,marie,f,1904,22,gen3,français,fille,,couturière,patron
+42,Le Bourg,14,14,champigny,,rené,h,1865,61,gen1,français,chef,marié,cultivateur,patron
+43,Le Bourg,14,14,champigny,massé,louise,f,1873,53,gen2,français,épouse,marié,cultivateur,
+44,Le Bourg,14,14,champigny,,estelle,h,1901,25,gen3,français,fille,,cultivateur,
+45,Le Bourg,14,14,massé,,joseph,h,1845,81,gen1,français,Beau-père,,,
+46,Le Bourg,15,15,fleuriau,marché,gabriel,h,1874,52,gen2,français,chef,veuf,harron,patron
+47,Le Bourg,16,16,baudouin,,françois,h,1846,80,gen1,français,chef,veuf,,
+48,Le Bourg,17,17,dezon,,pierre,h,1850,76,gen1,français,chef,marié,cultivateur,patron
+49,Le Bourg,17,17,dezon,constantin,joséphine,f,1855,71,gen1,français,épouse,marié,cultivateur,
+50,Le Bourg,18,18,deforges,,martin,h,1860,66,gen1,français,chef,marié,cultivateur,patron
+51,Le Bourg,18,18,deforges,montier,eugénie,f,1863,63,gen1,français,épouse,marié,cultivateur,
+52,Le Bourg,19,19,angébert,,auguste,h,1861,65,gen1,français,chef,marié,cultivateur,patron
+53,Le Bourg,19,19,angébert,granger,célestine,f,1867,59,gen2,français,épouse,marié,cultivateur,
+54,Le Bourg,19,19,larcher,,agléa,f,1911,15,gen3,français,Petite-fille,,cultivateur,
+55,Le Bourg,20,20,angébert,,auguste,h,1883,43,gen2,français,chef,marié,cultivateur,patron
+56,Le Bourg,20,20,angébert,jourdame,angèle,f,1887,39,gen2,français,épouse,marié,cultivateur,
+57,Le Bourg,20,20,angébert,,aliée,f,1913,13,gen3,français,fille,,écolier,
+58,Le Bourg,20,20,angébert,,auguste,h,1857,69,gen1,français,père,,cultivateur,
+59,Le Bourg,21,21,jourdame,,jacques,h,1851,75,gen1,français,chef,marié,cultivateur,patron
+60,Le Bourg,21,21,jourdame,savaton,louise,f,1850,76,gen1,français,épouse,marié,cultivateur,
+61,Le Bourg,22,22,deforges,,victor,h,1884,42,gen2,français,chef,marié,cultivateur,patron
+62,Le Bourg,22,22,deforges,frémont,eugénie,f,1888,38,gen2,français,épouse,marié,cultivateur,
+63,Le Bourg,22,22,deforges,,carmen,f,1910,16,gen3,français,fille,,cultivateur,
+64,Le Bourg,22,22,deforges,,maurice,h,1924,2,gen3,français,fils,,cultivateur,
+65,Le Bourg,23,23,beun,,maurice,h,1891,35,gen2,belge,chef,marié,cultivateur,
+66,Le Bourg,23,23,beun,desforges,yvonne,f,1896,30,gen2,français,épouse,marié,,
+67,Le Bourg,23,23,beun,,jeannine,f,1920,6,gen3,français,fille,,écolier,
+68,Le Bourg,23,23,beun,,madeleine,f,1921,5,gen3,français,fille,,,
+69,Le Bourg,23,23,beun,,norbert,h,1923,3,gen3,français,fils,,,
+70,Le Bourg,23,23,beun,,huguette,f,1924,2,gen3,français,fille,,,
+71,Le Bourg,24,24,vallée,,albert,h,1894,32,gen2,français,chef,marié,sncf,état
+72,Le Bourg,24,24,vallée,fleuriau,gabrielle,f,1899,27,gen2,français,épouse,marié,couturière,patron
+73,Le Bourg,24,24,vallée,,robert,h,1920,6,gen3,français,fils,,écolier,
+74,La Gautraie,25,25,joubert,dozon,moïse,h,1870,56,gen2,français,chef,marié,cultivateur,patron
+75,La Gautraie,25,25,joubert,,marcelline,f,1877,49,gen2,français,épouse,marié,cultivateur,
+76,La Gautraie,25,25,joubert,,marins,h,1905,21,gen3,français,fils,,cultivateur,
+77,La Gautraie,25,26,viau,,charles,h,1897,29,gen2,français,chef,marié,cultivateur,
+78,La Gautraie,25,26,viau,joubert,madeleine,f,1901,25,gen2,français,épouse,marié,cultivateur,
+79,La Gautraie,26,27,malvé,,alphonse,h,1867,59,gen2,français,chef,marié,,
+80,La Gautraie,26,27,malvé,rémioud,henriette,f,1872,54,gen2,français,épouse,marié,,
+81,La Gautraie,27,28,malvé,,rené,h,1895,31,gen2,français,chef,marié,sabatier,patron
+82,La Gautraie,27,28,malvé,,germaine,f,1901,25,gen2,français,épouse,marié,couturière,patron
+83,La Gautraie,27,28,malvé,fleuriau,yvette,f,1924,2,gen3,français,fille,,,
+84,La Gautraie,27,28,flandrin,,j,h,1906,20,gen3,français,ouvrier,,sabatier,
+85,La Gautraie,28,29,constantin,augélliaume,victoire,f,1854,72,gen1,français,chef,veuf,cultivateur,patron
+86,La Gautraie,28,29,constantin,,gaston,h,1904,22,gen2,français,Petit-fils,,cultivateur,
+87,La Gautraie,29,30,hilleret,,daniel,h,1898,28,gen2,français,chef,marié,sncf,état
+88,La Gautraie,29,30,hilleret,debin,camille,f,1900,26,gen2,français,épouse,marié,sncf,état
+89,La Gautraie,29,30,hilleret,,suzanne,f,1923,3,gen3,français,fille,,,
+90,La Gautraie,30,31,cussonneau,,pierre,h,1867,59,gen2,français,chef,marié,maréchal,patron
+91,La Gautraie,30,31,cussonneau,lhuillier,ernestine,f,1872,54,gen2,français,épouse,marié,débitant,patron
+92,La Gautraie,30,31,lhuillier,,louis,h,1845,81,gen1,français,Beau-père,,maçon,patron
+93,La Gautraie,30,31,chatain,,louis,f,1906,20,gen3,français,ouvrier,,maréchal,
+94,La Gautraie,30,32,cussonneau,,roger,h,1898,28,gen2,français,chef,marié,maréchal,
+95,La Gautraie,30,32,cussonneau,joubert,olga,f,1898,28,gen2,français,épouse,marié,,
+96,La Gautraie,30,32,cussonneau,,pierrette,f,1925,1,gen3,français,fille,,,
+97,La Gautraie,31,33,vallée,,joseph,h,1866,60,gen1,français,chef,veuf,cultivateur,patron
+98,La Gautraie,32,34,constantin,,victor,h,1877,49,gen2,français,chef,veuf,cultivateur,patron
+99,La Gautraie,33,35,godet,,martin,h,1857,69,gen1,français,chef,marié,cultivateur,patron
+100,La Gautraie,33,35,godet,pasquier,victoire,f,1858,68,gen1,français,épouse,marié,,
+101,La Gautraie,33,36,malvé,,albert,h,1884,42,gen2,français,chef,marié,sabatier,patron
+102,La Gautraie,33,36,malvé,godet,cécile,f,1886,40,gen2,français,épouse,marié,,
+103,La Gautraie,33,36,malvé,,adrien,h,1910,16,gen3,français,fils,,cultivateur,
+104,La Gautraie,33,36,malvé,,raymond,h,1914,12,gen3,français,fils,,écolier,
+105,La Gautraie,33,36,malvé,,gabriel,h,1919,7,gen3,français,fils,,écolier,
+106,La Gautraie,34,37,ferrand,,joseph,f,1869,57,gen2,français,chef,marié,cultivateur,patron
+107,La Gautraie,34,37,ferrand,loiseau,marie,f,1873,53,gen2,français,épouse,marié,cultivateur,
+108,La Gautraie,34,37,chauvelin,,albertine,f,1899,27,gen2,français,domestique,,cultivateur,
+109,La Gautraie,35,38,lenoir,,alexandre,h,1879,47,gen2,français,chef,veuf,barifleur,patron
+110,La Gautraie,36,39,rencher,,joseph,h,1869,57,gen2,français,chef,marié,cultivateur,patron
+111,La Gautraie,36,39,rencher,godet,louise,f,1859,67,gen1,français,épouse,marié,cultivateur,
+112,La Gautraie,36,40,hervé,rencher,juliette,f,1889,37,gen2,français,chef,veuf,cultivateur,
+113,La Gautraie,36,40,hervé,,germaine,f,1913,13,gen3,français,fille,,écolier,
+114,La Gautraie,37,41,chevallier,,auguste,h,1866,60,gen1,français,chef,marié,cultivateur,patron
+115,La Gautraie,37,41,chevallier,devant,célina,f,1868,58,gen2,français,épouse,marié,cultivateur,
+116,La Gautraie,37,41,chomeret,,louis,h,1907,19,gen3,français,domestique,,cultivateur,
+117,La Gautraie,37,42,chevallier,,roger,h,1899,27,gen2,français,chef,marié,cultivateur,
+118,La Gautraie,37,42,chevallier,hervé,léa,f,1898,28,gen2,français,épouse,marié,cultivateur,
+119,La Gautraie,37,42,chevallier,,paul,h,1922,4,gen3,français,fils,,,
+120,La Gautraie,38,43,guérin,arnault,marie,f,1891,35,gen2,français,chef,veuf,journalier,
+121,La Gautraie,38,43,guérin,,odette,f,1911,15,gen3,français,fille,,couturière,
+122,La Gautraie,38,43,barrillon,,paulette,f,1925,1,gen3,français,nourriçonne,,,
+123,La Gautraie,39,44,gallais,prinet,louis,h,1851,75,gen1,français,chef,marié,tonnelier,patron
+124,La Gautraie,39,44,gallais,,marie,f,1852,74,gen1,français,épouse,marié,couturière,patron
+125,La Gautraie,40,45,malvé,,rémy,h,1901,25,gen2,français,chef,marié,cultivateur,patron
+126,La Gautraie,40,45,malvé,habert,germaine,f,1901,25,gen2,français,épouse,marié,cultivateur,
+127,La Gautraie,41,46,habert,,joseph,h,1875,51,gen2,français,chef,marié,cultivateur,
+128,La Gautraie,41,46,habert,gratien,marie,f,1884,42,gen2,français,épouse,marié,,
+129,La Gautraie,41,46,habert,,léa,f,1905,21,gen3,français,fille,,journalier,
+130,La Gautraie,41,46,percy,,james,h,1924,2,gen3,français,Petit-fils,,,
+131,La Gautraie,42,47,dupont,,marcel,h,1899,27,gen2,français,chef,marié,laitier,
+132,La Gautraie,42,47,dupont,frémont,irma,f,1897,29,gen2,français,épouse,marié,,
+133,La Gautraie,42,47,dupont,,roland,h,1921,5,gen3,français,fils,,,
+134,La Gautraie,42,47,dupont,,william,f,1923,3,gen3,français,fils,,,
+135,La Gautraie,43,48,ferrand,,maurice,h,1889,37,gen2,français,chef,marié,laitier,
+136,La Gautraie,43,48,ferrand,bourré,marthe,f,1894,32,gen2,français,épouse,marié,,
+137,La Gautraie,43,48,ferrand,,bernard,h,1922,4,gen3,français,fils,,,
+138,La Gautraie,43,48,duchesne,,maria,f,1911,15,gen3,français,domestique,,servante,
+139,La Gautraie,44,49,bourré,,louis,h,1867,59,gen2,français,chef,marié,laitier,patron
+140,La Gautraie,44,49,bourré,roux,eugénie,f,1871,55,gen2,français,épouse,marié,,
+141,La Gautraie,44,49,blanchard,,marie,f,1899,27,gen2,français,domestique,,servante,
+142,La Gautraie,45,50,bourdilleau,,auguste,h,1881,45,gen2,français,chef,veuf,beurrier,
+143,La Gautraie,45,50,bourdilleau,,juliette,f,1909,17,gen3,français,fille,,,
+144,La Gautraie,45,50,bourdilleau,,solange,f,1915,11,gen3,français,fille,,écolier,
+145,La Gautraie,46,51,besnier,,charles,h,1879,47,gen2,français,chef,marié,cultivateur,patron
+146,La Gautraie,46,51,besnier,massé,Marie-louise,f,1888,38,gen2,français,épouse,marié,cultivateur,
+147,La Gautraie,46,51,besnier,,clotaire,f,1908,18,gen3,français,fille,,,
+148,La Gautraie,46,51,massé,,marie,h,1853,73,gen1,français,Belle-mère,,,
+149,La Gautraie,47,52,deforges,,joseph,h,1867,59,gen2,français,chef,marié,cultivateur,patron
+150,La Gautraie,47,52,deforges,,marcel,f,1874,52,gen2,français,épouse,marié,cultivateur,
+151,La Gautraie,47,52,deforges,,julien,h,1904,22,gen3,français,fils,,cultivateur,
+152,La Gautraie,47,52,deforges,,gilbert,h,1914,12,gen3,français,fils,,écolier,
+153,La Gautraie,48,53,gallais,,louis,h,1878,48,gen2,français,chef,marié,cultivateur,patron
+154,La Gautraie,48,53,gallais,bonnin,isabelle,f,1885,41,gen2,français,épouse,marié,,
+155,La Gautraie,48,53,gallais,,roger,h,1914,12,gen3,français,fils,,écolier,
+156,La Gautraie,49,54,durand,,eugène,h,1885,41,gen2,français,chef,marié,charpentier,patron
+157,La Gautraie,49,54,durand,médard,lucie,f,1891,35,gen2,français,épouse,marié,couturière,patron
+158,La Gautraie,49,54,durand,,gaétan,h,1912,14,gen3,français,fils,,apprenti,
+159,La Gautraie,50,55,bonnin,,louis,h,1862,64,gen1,français,chef,marié,cultivateur,patron
+160,La Gautraie,50,55,bonnin,durand,marie,f,1866,60,gen1,français,épouse,marié,,
+161,La Gautraie,52,56,bonnin,,georges,f,1891,35,gen2,français,chef,veuf,facteur,état
+162,La Gautraie,52,56,bonnin,,léa,f,1917,9,gen3,français,fille,,écolier,
+163,La Gautraie,53,57,ayrault,constantin,léontine,f,1892,34,gen2,français,chef,veuf,journalier,
+164,La Gautraie,53,57,ayrault,,léonne,f,1913,13,gen3,français,fille,,,
+165,La Gautraie,54,58,deforges,,auguste,h,1854,72,gen1,français,chef,veuf,cultivateur,patron
+166,La Gautraie,55,59,vincent,,constant,h,1875,51,gen2,français,chef,marié,laitier,
+167,La Gautraie,55,59,vincent,delaunay,joséphine,f,1867,59,gen2,français,épouse,marié,,
+168,La Gautraie,56,60,péraudeau,,joseph,h,1869,57,gen2,français,chef,marié,cultivateur,patron
+169,La Gautraie,56,60,péraudeau,charpentier,louise,f,1868,58,gen2,français,épouse,marié,cultivateur,
+170,La Gautraie,57,61,houette,,benjamin,h,1862,64,gen1,français,chef,marié,cultivateur,patron
+171,La Gautraie,57,61,houette,,marie,f,1867,59,gen2,français,épouse,marié,,
+172,La Gautraie,58,62,poisson,,louis,h,1856,70,gen1,français,chef,marié,cultivateur,patron
+173,La Gautraie,58,62,poisson,besger,anastasie,f,1858,68,gen1,français,épouse,marié,cultivateur,
+174,La Gautraie,58,63,moisin,,auguste,h,1881,45,gen2,français,chef,marié,cultivateur,
+175,La Gautraie,58,63,moisin,poisson,anna,f,1882,44,gen2,français,épouse,marié,cultivateur,
+176,La Gautraie,58,63,moisin,,simone,f,1907,19,gen3,français,fille,,couturière,
+177,La Gautraie,58,63,moisin,,marcelle,f,1909,17,gen3,français,fille,,,
+178,La Gautraie,59,64,frémont,amirault,marie,f,1858,68,gen1,français,chef,veuf,cultivateur,patron
+179,La Garde,60,65,palleau,rimbert,marie,f,1886,40,gen2,français,chef,veuf,Garde-barrière,état
+180,La Garde,60,65,palleau,,andré,h,1912,14,gen3,français,fils,,étudiant,
+181,La Garde,61,66,maire,constantin,marie,f,1868,58,gen2,français,chef,veuf,,
+182,La Garde,62,67,poisson,,Jean-baptiste,h,1864,62,gen1,français,chef,marié,cultivateur,patron
+183,La Garde,62,67,poisson,drouin,louise,f,1866,60,gen1,français,épouse,marié,cultivateur,
+184,La Garde,62,67,drousin,,bertin,h,1838,88,gen1,français,Beau-père,,,
+185,La Garde,63,68,hervé,,pierre,h,1856,70,gen1,français,chef,marié,cultivateur,patron
+186,La Garde,63,68,hervé,poisson,louise,f,1861,65,gen1,français,épouse,marié,cultivateur,
+187,La Garde,64,69,champion,,jules,h,1871,55,gen2,français,chef,marié,épicier,patron
+188,La Garde,64,69,champion,ravion,julienne,f,1875,51,gen2,français,épouse,marié,épicier,
+189,La Garde,65,70,blucheau,,antoine,h,1852,74,gen1,français,chef,marié,cultivateur,patron
+190,La Garde,65,70,blucheau,legros,jeanne,f,1855,71,gen1,français,épouse,marié,charpentier,
+191,La Garde,66,71,maulerc,,marcel,h,1886,40,gen2,français,chef,marié,cultivateur,patron
+192,La Garde,66,71,maulerc,davonneau,delphine,f,1891,35,gen2,français,épouse,marié,,
+193,La Garde,66,71,maulerc,,marcelle,f,1925,1,gen3,français,fille,,,
+194,La Garde,67,72,drouin,,victor,h,1884,42,gen2,français,chef,marié,cultivateur,patron
+195,La Garde,67,72,drouin,drouin,eulalie,f,1883,43,gen2,français,épouse,marié,cultivateur,
+196,La Garde,67,72,drouin,,bérangère,f,1910,16,gen3,français,fille,,cultivateur,
+197,La Garde,68,73,guérin,,hervé,h,1874,52,gen2,français,chef,marié,plombier,patron
+198,La Garde,68,73,guérin,gusthapfel,éléonore,f,1886,40,gen2,français,épouse,marié,mécanicien,
+199,La Garde,69,74,habert,,ludovic,h,1877,49,gen2,français,chef,veuf,cultivateur,patron
+200,La Garde,69,74,habert,drouin,louise,f,1858,68,gen1,français,mère,,cultivateur,patron
+201,La Garde,70,75,chaky,,auguste,h,1862,64,gen1,français,chef,veuf,journalier,
+202,La Garde,71,76,drouin,,auguste,h,1889,37,gen2,français,chef,marié,cultivateur,patron
+203,La Garde,71,76,drouin,rival,fabienne,f,1898,28,gen2,français,épouse,marié,cultivateur,
+204,La Garde,71,76,bureau,,marcel,h,1922,4,gen3,français,Beau-fils,,,
+205,La Garde,71,76,bureau,,marceline,f,1923,3,gen3,français,Belle-fille,,,
+206,La Garde,71,77,rival,,louis,h,1868,58,gen2,français,chef,marié,cultivateur,patron
+207,La Garde,71,77,rival,guilleau,augustine,f,1877,49,gen2,français,épouse,marié,cultivateur,
+208,La Garde,71,77,guilleau,granger,rose,f,1852,74,gen1,français,Belle-mère,,cultivateur,
+209,La Garde,72,78,boucher,,jean,h,1854,72,gen1,français,chef,marié,cultivateur,patron
+210,La Garde,72,78,boucher,duchesne,Marie-louise,f,1860,66,gen1,français,épouse,marié,cultivateur,
+211,La Garde,73,79,gallais,,louis,h,1879,47,gen2,français,chef,marié,cultivateur,patron
+212,La Garde,73,79,gallais,girault,joséphine,f,1891,35,gen2,français,épouse,marié,cultivateur,
+213,La Garde,73,79,gallais,,joséphine,f,1915,11,gen3,français,fille,,écolier,
+214,La Garde,73,79,gallais,,mélina,f,1919,7,gen3,français,fille,,écolier,
+215,La Garde,74,80,monclerc,,joseph,h,1866,60,gen1,français,chef,marié,cultivateur,patron
+216,La Garde,74,80,monclerc,garchet,marie,f,1875,51,gen2,français,épouse,marié,cultivateur,
+217,La Garde,74,80,monclerc,,edmond,h,1905,21,gen3,français,fils,,cultivateur,
+218,La Garde,75,81,auffray,,auguste,h,1855,71,gen1,français,chef,marié,cultivateur,patron
+219,La Garde,75,81,auffray,pointeau,angélique,f,1858,68,gen1,français,épouse,marié,,
+220,La Garde,75,81,lemarié,,rené,h,1903,23,gen2,français,domestique,,cultivateur,
+221,La Garde,75,82,loizillon,,augustine,f,1880,46,gen2,français,chef,veuf,,
+222,La Garde,75,82,loizillon,,maurice,h,1903,23,gen3,français,fils,,cultivateur,
+223,La Garde,76,83,gallais,foucault,marie,f,1849,77,gen1,français,chef,veuf,cultivateur,patron
+224,La Garde,77,84,herdiguère,fontemille,éléonore,f,1849,77,gen1,français,chef,veuf,,
+225,La Garde,78,85,besnier,joulin,joséphine,f,1859,67,gen1,français,chef,veuf,,
+226,La Garde,79,86,vallée,,moïse,h,1877,49,gen2,français,chef,marié,cultivateur,patron
+227,La Garde,79,86,vallée,marché,valentine,f,1877,49,gen2,français,épouse,marié,cultivateur,
+228,La Garde,80,87,jourdame,,pierre,h,1854,72,gen1,français,chef,marié,cultivateur,patron
+229,La Garde,80,87,jourdame,joulin,victorine,f,1864,62,gen1,français,épouse,marié,cultivateur,
+230,La Garde,80,88,guilleau,,joseph,h,1883,43,gen2,français,chef,marié,cultivateur,
+231,La Garde,80,88,guilleau,jourdame,augustine,f,1887,39,gen2,français,épouse,marié,cultivateur,
+232,La Garde,80,88,guilleau,,marthe,f,1916,10,gen3,français,fille,,écolier,
+233,La Garde,81,89,frémont,,charles,h,1869,57,gen2,français,chef,marié,cultivateur,patron
+234,La Garde,81,89,frémont,girouard,mélanie,f,1868,58,gen2,français,épouse,marié,cultivateur,
+235,La Garde,81,89,frémont,,lilianne,f,1910,16,gen3,français,fille,,cultivateur,
+236,La Garde,82,90,foucault,,ernest,h,1882,44,gen2,français,chef,marié,cultivateur,
+237,La Garde,82,90,foucault,guesnet,suzanne,f,1891,35,gen2,français,épouse,marié,cultivateur,
+238,La Garde,82,90,foucault,,simone,f,1912,14,gen3,français,fille,,cultivateur,
+239,La Garde,82,90,foucault,,andrée,f,1913,13,gen3,français,fille,,écolier,
+240,La Garde,82,90,foucault,,raymond,h,1923,3,gen3,français,fils,,,
+241,La Garde,83,91,cordé,,joseph,h,1860,66,gen1,français,chef,marié,cultivateur,patron
+242,La Garde,83,91,cordé,fontemille,augustine,f,1857,69,gen1,français,épouse,marié,,
+243,La Garde,84,92,duchène,,émile,h,1868,58,gen2,français,chef,marié,cultivateur,patron
+244,La Garde,84,92,duchène,rival,berthe,f,1875,51,gen2,français,épouse,marié,cultivateur,
+245,La Garde,85,93,deforges,,eugène,h,1898,28,gen2,français,chef,marié,cultivateur,
+246,La Garde,85,93,deforges,girard,gabrielle,f,1902,24,gen2,français,épouse,marié,couturière,patron
+247,La Garde,85,93,deforges,,gilberte,f,1924,2,gen3,français,fille,,,
+248,La Garde,85,93,deforges,,christiane,f,1925,1,gen3,français,fille,,,
+249,La Garde,86,94,drouin,,auguste,h,1861,65,gen1,français,chef,marié,cultivateur,patron
+250,La Garde,86,94,drouin,robin,louise,f,1867,59,gen2,français,épouse,marié,,
+251,La Garde,87,95,joubert,,joseph,h,1862,64,gen1,français,chef,marié,cultivateur,patron
+252,La Garde,87,95,joubert,néron,joséphine,f,1871,55,gen2,français,épouse,marié,,
+253,La Garde,88,96,vallée,joulain,marie,f,1852,74,gen1,français,chef,veuf,cultivateur,patron
+254,La Garde,89,97,gernoux,,jean,h,1869,57,gen2,français,chef,marié,journalier,
+255,La Garde,89,97,gernoux,bourmigault,marie,f,1868,58,gen2,français,épouse,marié,cultivateur,patron
+256,La Garde,90,98,frémont,,roger,h,1895,31,gen2,français,chef,marié,journalier,
+257,La Garde,90,98,frémont,gernoux,célestine,f,1894,32,gen2,français,épouse,marié,,
+258,La Garde,90,98,frémont,,roger,h,1913,13,gen3,français,fils,,écolier,
+259,La Garde,90,98,frémont,,célestin,h,1914,12,gen3,français,fille,,écolier,
+260,La Garde,90,98,frémont,,fernand,h,1919,7,gen3,français,fils,,écolier,
+261,La Garde,90,98,frémont,,fernande,f,1920,6,gen3,français,fille,,,
+262,La Garde,90,98,frémont,,marie,f,1922,4,gen3,français,fille,,,
+263,La Garde,90,98,frémont,,marcel,h,1924,2,gen3,français,fils,,,
+264,La Garde,91,99,chabert,grandin,louise,f,1883,43,gen2,français,chef,veuf,cultivateur,patron
+265,La Garde,91,99,chabert,,eugénie,f,1910,16,gen3,français,fille,,couturière,patron
+266,La Garde,92,100,vallée,,émile,h,1875,51,gen2,français,chef,marié,cultivateur,patron
+267,La Garde,92,100,vallée,gallais,augustine,f,1886,40,gen2,français,épouse,marié,cultivateur,
+268,La Garde,92,100,vallée,,émile,h,1923,3,gen3,français,fils,,,
+269,La Garde,93,101,pointreau,,jules,h,1852,74,gen1,français,chef,marié,cultivateur,patron
+270,La Garde,93,101,pointreau,mauclerc,marie,f,1854,72,gen1,français,épouse,marié,cultivateur,
+271,La Garde,94,102,chartier,,ernest,h,1874,52,gen2,français,chef,marié,cultivateur,patron
+272,La Garde,94,102,chartier,pointreau,mélina,f,1882,44,gen2,français,épouse,marié,cultivateur,
+273,La Garde,94,102,pointreau,,julien,h,1902,24,gen2,français,cousin,,cultivateur,
+274,La Garde,95,103,badiller,blucheau,victorine,f,1881,45,gen2,français,chef,veuf,cultivateur,patron
+275,La Garde,95,103,badiller,,lucienne,f,1908,18,gen3,français,fille,,cultivateur,
+276,La Bruyère,96,104,berton,,joseph,h,1863,63,gen1,français,chef,marié,cultivateur,patron
+277,La Bruyère,96,104,berton,becasseau,louise,f,1864,62,gen1,français,épouse,marié,cultivateur,
+278,La Bruyère,96,104,gration,,jean,h,1903,23,gen2,français,domestique,,cultivateur,
+279,La Bruyère,96,105,berton,,joseph,h,1893,33,gen2,français,chef,marié,cultivateur,
+280,La Bruyère,96,105,bernard,gratien,fernande,f,1895,31,gen2,français,épouse,marié,cultivateur,
+281,La Bruyère,97,106,lecomté,,albert,h,1894,32,gen2,français,chef,marié,cultivateur,patron
+282,La Bruyère,97,106,lecomté,habert,gabrielle,f,1894,32,gen2,français,épouse,marié,cultivateur,
+283,La Bruyère,97,106,lecomté,,rené,h,1920,6,gen3,français,fils,,,
+284,La Bruyère,98,107,doussin,,louis,h,1865,61,gen1,français,chef,marié,cultivateur,patron
+285,La Bruyère,98,107,doussin,cailleau,marie,f,1867,59,gen2,français,épouse,marié,cultivateur,
+286,La Bruyère,99,108,viau,,marthe,f,1885,41,gen2,français,chef,veuf,,
+287,La Bruyère,99,108,viau,,léopoldine,f,1911,15,gen3,français,fille,,fromager,
+288,La Bruyère,99,108,viau,,abel,h,1913,13,gen3,français,fils,,,
+289,La Bruyère,99,108,viau,,gérard,h,1925,1,gen3,français,fils,,,
+290,La Bruyère,100,109,viau,duchesne,françoise,f,1858,68,gen1,français,chef,veuf,cultivateur,
+291,La Bruyère,101,110,bougreau,,auguste,h,1866,60,gen1,français,chef,marié,journalier,
+292,La Bruyère,101,110,bougreau,lebeaupin,rachelle,f,1886,40,gen2,français,épouse,marié,blanchisseuse,
+293,La Bruyère,101,110,bougreau,,denise,f,1916,10,gen3,français,fille,,,
+294,Le Peux,102,111,constantin,,joseph,h,1894,32,gen2,français,chef,marié,cultivateur,patron
+295,Le Peux,102,111,constantin,philippon,clémentine,f,1898,28,gen2,français,épouse,marié,cultivateur,
+296,Le Peux,102,111,constantin,,robert,h,1921,5,gen3,français,fils,,,
+297,Le Peux,102,111,constantin,,odette,f,1923,3,gen3,français,fille,,,
+298,Le Peux,102,111,constantin,,abel,h,1925,1,gen3,français,fils,,,
+299,Le Peux,103,112,chauvelin,,rené,h,1861,65,gen1,français,chef,marié,cultivateur,patron
+300,Le Peux,103,112,chauvelin,boiriau,marie,f,1870,56,gen2,français,épouse,marié,cultivateur,
+301,Le Peux,103,112,chauvelin,,denise,f,1908,18,gen3,français,fille,,cultivateur,
+302,Le Peux,104,113,alliet,,léon,h,1881,45,gen2,français,chef,marié,cultivateur,
+303,Le Peux,104,113,alliet,boucher,marie,f,1887,39,gen2,français,épouse,marié,cultivateur,
+304,Le Peux,104,113,alliet,,simone,f,1913,13,gen3,français,fille,,,
+305,Le Peux,105,114,néa,,olivier,h,1886,40,gen2,français,chef,marié,cultivateur,
+306,Le Peux,105,114,néa,borgne,jeannie,f,1886,40,gen2,français,épouse,marié,cultivateur,
+307,Le Peux,105,114,néa,,françoise,f,1910,16,gen3,français,fille,,cultivateur,
+308,Le Peux,105,114,néa,,Marie-jeanne,f,1912,14,gen3,français,fille,,cultivateur,
+309,Le Peux,105,114,brugnol,,jean,h,1904,22,gen2,français,domestique,,cultivateur,
+310,Le Peux,106,115,de joussineau de courdomet,de pin,yolande,f,1894,32,gen2,français,chef,veuf,,
+311,Le Peux,106,115,de joussineau de courdomet,,hubert,h,1920,6,gen3,français,fils,,,
+312,Le Peux,106,115,de joussineau de courdomet,,christian,h,1922,4,gen3,français,fils,,,
+313,Le Peux,106,115,de joussineau de courdomet,,ghislain,h,1924,2,gen3,français,fils,,,
+314,Le Peux,107,116,champigny,chabert,eugénie,f,1863,63,gen1,français,chef,veuf,,
+315,Le Peux,107,116,tanguy,,marcelle,f,1917,9,gen3,français,enfant assisté,,écolier,
+316,Le Peux,107,116,mercier,,léon,h,1918,8,gen3,,enfant assisté,,écolier,
+317,Le Peux,107,116,gallé,,lilianne,f,1924,2,gen3,français,nourriçonne,,,
+318,Le Peux,108,117,gauthier,,valentin,h,1877,49,gen2,français,chef,marié,sncf,état
+319,Le Peux,108,117,gauthier,,amélina,f,1872,54,gen2,français,épouse,marié,,
+320,Le Peux,108,117,gauthier,,yvette,f,1911,15,gen3,français,fille,,,
+321,Le Peux,109,118,raimbault,,gustave,h,1876,50,gen2,français,chef,marié,journalier,
+322,Le Peux,109,118,raimbault,fardeau,léontine,f,1884,42,gen2,français,épouse,marié,,
+323,Le Peux,109,118,raimbault,,vallentine,f,1904,22,gen3,français,fille,,,
+324,Le Peux,109,118,raimbault,,gustave,h,1914,12,gen3,français,fils,,,
+325,Le Village,110,119,pérondeau,,eugène,h,1877,49,gen2,français,chef,marié,cultivateur,patron
+326,Le Village,110,119,pérondeau,guilleau,marie,f,1876,50,gen2,français,épouse,marié,cultivateur,
+327,Le Village,110,119,pérondeau,,robert,h,1910,16,gen3,français,fils,,cultivateur,
+328,Le Village,111,120,chaimbault,,pierre,h,1866,60,gen1,français,chef,marié,cultivateur,patron
+329,Le Village,111,120,chaimbault,pichard,clémentine,f,1877,49,gen2,français,épouse,marié,cultivateur,
+330,Le Village,111,120,chaimbault,,joseph,h,1906,20,gen3,français,fils,,cultivateur,
+331,Le Vau,112,121,péraudeau,frerrand,eugénie,f,1888,38,gen2,français,chef,veuf,cultivateur,patron
+332,Le Vau,112,121,péraudeau,,audrienne,f,1911,15,gen3,français,fille,,cultivateur,
+333,Le Vau,112,121,péraudeau,,marcel,h,1916,10,gen3,français,fils,,écolier,
+334,Le Vau,112,121,péraudeau,,louise,f,1856,70,gen1,français,Belle-mère,,cultivateur,
+335,Le Vau,112,121,pierrot,,rené,h,1906,20,gen3,français,domestique,,cultivateur,
+336,Le Vau,113,122,bureau,,joseph,h,1863,63,gen1,français,chef,marié,cultivateur,patron
+337,Le Vau,113,122,bureau,bouilly,augustine,f,1862,64,gen1,français,épouse,marié,cultivateur,
+338,Le Vau,113,122,barbin,,bilberte,f,1909,17,gen3,français,Petite-fille,,cultivateur,
+339,Le Vau,114,123,mauclerc,,pierre,h,1852,74,gen1,français,chef,veuf,,
+340,Le Vau,115,124,blutteau,,charles,h,1869,57,gen2,français,chef,veuf,cultivateur,patron
+341,Les Brétignolles,116,125,letousneau,,moïse,h,1884,42,gen2,français,chef,marié,cultivateur,
+342,Les Brétignolles,116,125,letousneau,viau,Marie-louise,f,1892,34,gen2,français,épouse,marié,cultivateur,
+343,Les Brétignolles,116,125,letousneau,,simone,f,1913,13,gen3,français,fille,,cultivateur,
+344,Les Brétignolles,116,125,letousneau,,andré,h,1919,7,gen3,français,fils,,écolier,
+345,Les Brétignolles,116,125,letousneau,,maurice,h,1921,5,gen3,français,fils,,,
+346,Les Brétignolles,116,125,letousneau,,jeanne,f,1923,3,gen3,français,fille,,,
+347,Les Brétignolles,116,125,letousneau,,odette,f,1924,2,gen3,français,fille,,,
+348,Les Brétignolles,116,125,letousneau,,mariette,f,1925,1,gen3,français,fille,,,
+349,Les Brétignolles,116,125,pradeau,,louis,h,1906,20,gen3,français,domestique,,cultivateur,
+350,Les Brétignolles,117,126,roy,,auguste,h,1860,66,gen1,français,chef,marié,cultivateur,
+351,Les Brétignolles,117,126,roy,laurenin,marceline,f,1869,57,gen2,français,épouse,marié,cultivateur,
+352,Les Brétignolles,117,126,roy,,lucien,h,1911,15,gen3,français,fils,,cultivateur,
+353,Les Brétignolles,117,126,gaillard,,gaston,h,1909,17,gen3,français,domestique,,cultivateur,
+354,Les Brétignolles,117,127,roy,,marcel,h,1892,34,gen2,français,chef,marié,cultivateur,
+355,Les Brétignolles,117,127,roy,lemarié,marie,f,1902,24,gen2,français,épouse,marié,cultivateur,
+356,Les Brétignolles,117,127,roy,,lydie,f,1924,2,gen3,français,fille,,,
+357,Château des Brétignolles,118,128,chevalier,,victor,h,1857,69,gen1,français,chef,veuf,directeur pensionnat,
+358,Château des Brétignolles,118,129,journiac,,vincent,h,1871,55,gen2,français,chef,veuf,directeur,
+359,Château des Brétignolles,118,129,guinchat,,gabrielle,f,1871,55,gen2,français,chef,veuf,directeur,
+360,Château des Brétignolles,118,129,bidaux,,joseph,h,1903,23,gen2,français,professeur,,professeur,
+361,Château des Brétignolles,118,129,des pommase,,raoul,h,1906,20,gen3,français,professeur,,professeur,
+362,Château des Brétignolles,118,129,husquin de rhéville,,roger,h,1903,23,gen2,français,surveillant,,surveillant,
+363,Château des Brétignolles,118,129,wells,,marjorie,f,1880,46,gen2,anglais,infirmier,,infirmier,
+364,Château des Brétignolles,118,129,schmitt,,alphonse,h,1904,22,gen2,français,valet de chambre,,valet de chambre,
+365,Château des Brétignolles,118,129,utard,,adolphe,h,1900,26,gen2,français,valet de chambre,,valet de chambre,
+366,Château des Brétignolles,118,129,sailly,,gabrielle,f,1866,60,gen1,français,lingère,,lingère,
+367,Château des Brétignolles,118,129,hem,,adeline,f,1895,31,gen2,français,cuisinière,,cuisinière,
+368,La Papinière,119,130,badiller,,louis,h,1878,48,gen2,français,chef,marié,cultivateur,patron
+369,La Papinière,119,130,badiller,ferrand,adrienne,f,1882,44,gen2,français,épouse,marié,cultivateur,
+370,La Papinière,119,130,badiller,,adrien,h,1905,21,gen3,français,fils,,cultivateur,
+371,La Papinière,119,130,badiller,,raymond,h,1913,13,gen3,français,fils,,écolier,
+372,La Papinière,119,130,bricot,,fernand,h,1908,18,gen3,français,domestique,,cultivateur,
+373,La Papinière,119,130,beldon,,rachelle,f,1897,29,gen2,français,domestique,,cultivateur,
+374,La Papinière,120,131,madrier,,louis,h,1892,34,gen2,français,chef,marié,maçon,patron
+375,La Papinière,120,131,madrier,vincent,laé,f,1896,30,gen2,français,épouse,marié,,
+376,La Papinière,120,131,madrier,,roland,h,1918,8,gen3,français,fils,,écolier,
+377,La Papinière,120,131,madrier,,lydia,f,1920,6,gen3,français,fille,,écolier,
+378,La Papinière,120,131,madrier,,arlette,f,1923,3,gen3,français,fille,,,
+379,La Papinière,120,131,lhuillier,,alfred,h,1870,56,gen2,français,ouvrier,,maçon,
+380,La Papinière,120,131,bouteille,,lucien,h,1885,41,gen2,français,ouvrier,,maçon,
+381,La Papinière,120,131,bourdilleau,,élie,h,1906,20,gen3,français,ouvrier,,maçon,
+382,La Papinière,121,132,vincent,bouard,Marie-louise,f,1872,54,gen2,français,chef,veuf,,
+383,Régnier,122,133,deforges,,auguste,h,1882,44,gen2,français,chef,marié,cultivateur,patron
+384,Régnier,122,133,deforges,gugnon,angèle,f,1877,49,gen2,français,épouse,marié,cultivateur,
+385,Régnier,122,133,deforges,,edith,f,1915,11,gen3,français,fille,,écolier,
+386,Régnier,122,133,cochard,,raoul,h,1906,20,gen3,français,Beau-fils,,cultivateur,
+387,Régnier,122,133,cochard,,gaston,h,1910,16,gen3,français,Beau-fils,,cultivateur,
+388,Régnier,122,133,cochard,,viviane,f,1912,14,gen3,français,Belle-fille,,cultivateur,
+389,Régnier,122,133,cochard,,annie,f,1914,12,gen3,français,Belle-fille,,,
+390,Régnier,122,133,cochard,,emma,f,1919,7,gen3,français,Belle-fille,,écolier,
+391,Régnier,122,133,deforges,,andrée,f,1911,15,gen3,français,fille,,cultivateur,
+392,Régnier,123,134,chauvelin,crozon,marie,f,1854,72,gen1,français,chef,veuf,,
+393,Régnier,123,134,deville,,maria,f,1864,62,gen1,français,domestique,,servante,
+394,Les Planches,124,135,bouché,,désiré,h,1870,56,gen2,français,chef,marié,cultivateur,patron
+395,Les Planches,124,135,bouché,frémont,louise,f,1873,53,gen2,français,épouse,marié,cultivateur,
+396,Les Planches,124,135,bouché,,albert,h,1910,16,gen3,français,fils,,cultivateur,
+397,Les Planches,124,135,bouché,,angélina,f,1892,34,gen2,français,sœur,,cultivateur,
+398,Les Planches,125,136,roux,,marie,f,1883,43,gen2,français,chef,veuf,meunier,patron
+399,Les Planches,125,136,prinet,,émilien,h,1876,50,gen2,français,domestique,,cultivateur,
+400,Corcé,126,137,chesseron,,alphonse,h,1869,57,gen2,français,chef,veuf,cultivateur,
+401,Corcé,126,137,chesseron,,albert,h,1898,28,gen3,français,fils,,cultivateur,
+402,Corcé,126,137,chesseron,,zoé,f,1903,23,gen3,français,fille,,cultivateur,
+403,Corcé,126,138,simon,mariet,marie,f,1890,36,gen2,français,chef,veuf,cultivateur,
+404,Corcé,126,138,simon,,guy,h,1914,12,gen3,français,fils,,écolier,
+405,Le Bois de Veude,127,139,poisson,,aristide,h,1887,39,gen2,français,chef,marié,cultivateur,patron
+406,Le Bois de Veude,127,139,poisson,duchesne,Marie-eugénie,f,1886,40,gen2,français,épouse,marié,cultivateur,
+407,Le Bois de Veude,127,139,poisson,,maurice,h,1913,13,gen3,français,fils,,écolier,
+408,Le Bois de Veude,127,139,andré,,marcel,h,1908,18,gen3,français,domestique,,cultivateur,
+409,Le Bois de Veude,128,140,hervé,,léopold,h,1890,36,gen2,français,chef,marié,cultivateur,
+410,Le Bois de Veude,128,140,hervé,février,roger,h,1923,3,gen3,français,fils,marié,,
+411,Le Bois de Veude,128,140,lemaître,,andré,h,1909,17,gen3,français,domestique,,cultivateur,
+412,Le Bois de Veude,129,141,doussin,,hervé,h,1865,61,gen1,français,chef,,cuisinière,patron
+413,La Massonnière,129,141,doussin,,louise,f,1873,53,gen2,français,épouse,marié,cultivateur,
